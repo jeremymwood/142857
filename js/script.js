@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
     let first = `<div>first</div>`;
     let second = `<div>second</div>`;
